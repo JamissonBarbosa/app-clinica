@@ -4,9 +4,9 @@ Aplicativo mobile para auxiliar os médicos no registro de tarefas feitas pelos 
 
 ## Tecnologias
 
-JavaScript
-React-Native
-NodeJs
-Express
-Nodemon
-Axios
+- JavaScript
+- React-Native
+- NodeJs
+- Express
+- Nodemon
+- Axios
